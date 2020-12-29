@@ -1,8 +1,8 @@
 ## SnakeGame-Java
-===================
+-----------------
 A simple snake game in java  using Java Swing to display the game. 
 
-<img src="Snake_demo.gif" width=350px height=3500px />
+<img src="Snake_demo.gif" width=350px height=350px />
 
 #Features:
 ---------
